@@ -1,3 +1,3 @@
 # deploy
 Web Developer
-!["Logo"]("deploy-logo.svg")
+![Logo](deploy-logo.svg)
